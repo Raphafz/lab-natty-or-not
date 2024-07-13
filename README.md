@@ -1,16 +1,15 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Explorar IAs Generativas: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso! No meu caso criação de imagem com a IA do Copilot!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedir para o copilot criar uma imagem de um homem trabalhando com programação a noite 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![foto gerada](https://tse1.mm.bing.net/th?id=OIG1.UigB2v2Lc6O10SddWFi7&pid=ImgGn)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
