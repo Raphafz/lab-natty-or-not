@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando IA GENERATIVAS!
 
 ## 📒 Descrição
 Explorar IAs Generativas: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso! No meu caso criação de imagem com a IA do Copilot!
